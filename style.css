@@ -1,0 +1,110 @@
+
+body{
+/*	font-family: "system";*/
+	background: #1f1f1f;
+	color: #BBC4C8;
+}
+
+ @font-face{
+	 font-family: TextFont; src: url('ubuntu.mono.ttf');
+}
+ @font-face{
+	 font-family: NerdFont; src: url('Heavy Data Nerd Font Complete.ttf');
+}
+
+.container{
+	display: grid;
+	grid-gap: 20px;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	grid-template-columns: repeat(5,1fr);
+	justify-items: center;
+}
+
+.logo{
+	font-family: NerdFont;
+	font-size: 160px;
+	list-style-type: none;
+	grid-column: 1/-1;
+	padding-bottom: 15px;
+}
+
+.button{
+	font-family: NerdFont;
+	font-size: 25px;
+	background: none;
+	color: #ff7700;
+	border-radius: 0px 3px 3px 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+	padding-right: 2px;
+	position: absolute;
+	border: none;
+	transition-duration: 0.4s;
+}
+
+.button:hover{
+	filter: saturate(150%) brightness(200%)!important;
+}
+
+.search_box{
+	grid-column: 1/-1;
+	padding-bottom: 25px;
+	background: #333333;
+	width: 500px;
+	padding: 0px;
+	margin-bottom: 60px;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 4px 5px #171D20;
+}
+
+.text_field{
+	font-family: TextFont;
+	font-size: 20px;
+	grid-column: 1/-1;
+	background: none;
+	color: #919191;
+	width: 450px;
+	height: 25px;
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: none;
+}
+
+.icon{
+	font-family: NerdFont;
+	font-size: 50px;
+}
+
+.category{
+	font-family: TextFont;
+	font-size: 20px;
+	background: #333333;
+	padding: 20px;
+	border: #191C1E;
+	border-radius: 3px;
+	width:   -moz-available;
+	box-shadow: 0px 4px 5px #171D20;
+}
+
+li{
+	list-style-type: none;
+	padding:5px
+}
+
+a:link{
+	text-decoration: none;
+	color: #919191;
+}
+
+a:visited{
+	color: #919191;
+}
+
+a:hover{
+	color: #ff7700;
+}
