@@ -1,0 +1,36 @@
+technical:
+  icon: 
+  items:
+    ArchWiki: https://wiki.archlinux.org/title/Main_page
+    GitHub: https://github.com/king-gizzard
+    StackOverflow: https://stackoverflow.com/
+hot:
+  icon: 
+  items:
+    Wikipedia: https://wikipedia.com
+    Reddit: https://reddit.com
+    MonkeyType: https://monkeytype.com/
+    covid: https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/Landkreise/
+orga:
+  icon:  
+  items:
+    Postbank: https://meine.postbank.de/#/login
+    eCampus: https://ecampus.uni-goettingen.de/h1/pages/cs/sys/portal/hisinoneStartPage.faces?page=0&chco=y
+    WhatsApp: https://web.whatsapp.com/
+    FritzBox: http://fritz.box
+google:
+  icon: 
+  items:
+    Drive: https://drive.google.com/drive/my-drive
+    Colab: https://colab.research.google.com/
+    Mail: https://mail.google.com/mail/u/0/#inbox
+    Youtube: https://youtube.com
+    Scholar: https://scholar.google.com/
+games:
+  icon: 
+  items:
+    Gamepad: https://gamepad-tester.com/
+    Borderlands: https://borderlands.fandom.com/wiki/Borderlands_Wiki
+    Hades: https://hades.fandom.com/wiki/Hades_Wiki
+    Minecraft: https://minecraft.fandom.com/wiki/Minecraft_Wiki
+    Hollow Knight: https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki
