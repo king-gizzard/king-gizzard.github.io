@@ -1,8 +1,8 @@
 import yaml
 
-frame_path = 'king-gizzard.github.io/frame.html'
-index_path = 'king-gizzard.github.io/index.html'
-content_path = 'king-gizzard.github.io/source.yaml'
+frame_path = 'frame.html'
+index_path = 'index.html'
+content_path = 'source.yaml'
 
 with open(frame_path, 'r') as f:
     frame = f.read().split('\n')
