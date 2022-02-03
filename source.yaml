@@ -18,6 +18,14 @@ orga:
     eCampus: https://ecampus.uni-goettingen.de/h1/pages/cs/sys/portal/hisinoneStartPage.faces?page=0&chco=y
     WhatsApp: https://web.whatsapp.com/
     FritzBox: http://fritz.box
+writing:
+  icon: 
+  items:
+    Thesaurus: https://thesaurus.com/
+    Dict_cc: https://dict.cc/
+    Merriam-Webster: https://merriam-webster.com/
+    CopyChar: https://copychar.cc
+    Etymonline: https://etymonline.com/
 google:
   icon: 
   items:
