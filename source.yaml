@@ -6,21 +6,24 @@ technical:
     StackOverflow: https://stackoverflow.com/
     OpenSCAD: https://openscad.org/cheatsheet/index.html
     DevHints: https://devhints.io/
+    QuickRef: https://quickref.me
 hot:
   icon: 
   items:
     Wikipedia: https://wikipedia.com
     Reddit: https://reddit.com
-    MonkeyType: https://monkeytype.com/
-    Nitter: https://nitter.pussthecat.org/
-    covid: https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/Landkreise/
-    WallHaven: https://wallhaven.cc/
+    MonkeyType: https://monkeytype.com
+    Nitter: https://nitter.net
+    WhatsApp: https://web.whatsapp.com/
 orga:
   icon:  
   items:
     Postbank: https://meine.postbank.de/#/login
-    eCampus: https://ecampus.uni-goettingen.de/h1/pages/cs/sys/portal/hisinoneStartPage.faces?page=0&chco=y
-    WhatsApp: https://web.whatsapp.com/
+    eCampus: https://ecampus.uni-goettingen.de/
+    BigBlueButton: https://meet.gwdg.de/
+    RocketChat: https://chat.gwdg.de/
+    Jupyter: jupyter-cloud.gwdg.de/
+    GitLab: https://gitlab.gwdg.de/florentin.meinecke/
     FritzBox: http://fritz.box
 writing:
   icon: 
@@ -30,6 +33,7 @@ writing:
     Merriam-Webster: https://merriam-webster.com/
     CopyChar: https://copychar.cc
     Etymonline: https://etymonline.com/
+    ChatGPT: https://chat.openai.com/
 google:
   icon: 
   items:
